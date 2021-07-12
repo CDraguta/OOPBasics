@@ -1,0 +1,2 @@
+C:\Users\draguta.corodi\source\repos\OOPBasics\OOPBasics\obj\Debug\OOPBasics.csproj.AssemblyReference.cache
+C:\Users\draguta.corodi\source\repos\OOPBasics\OOPBasics\obj\Debug\OOPBasics.csproj.CoreCompileInputs.cache
